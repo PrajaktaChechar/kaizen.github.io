@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: CaringConnection
-Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
-Author: CaringConnection.com
+Template Name: Kaizen
+Template URL: https://bootstrapmade.com/Kaizen-free-multipurpose-bootstrap-template/
+Author: Kaizen.com
 License: https://bootstrapmade.com/license/
